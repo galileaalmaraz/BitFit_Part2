@@ -1,10 +1,10 @@
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - *BitFit+ Part Two*
 
-Submitted by: **Your Name Here**
+Submitted by: **Galilea Almaraz**
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+**BitFit+ Part Two** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **1000** hours spent in total
 
 ## Required Features
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/galileaalmaraz/BitFit_Part2/blob/master/BitFit_PartTwo_Walkthrough.gif?raw=true)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
